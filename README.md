@@ -1,4 +1,3 @@
-# Data-Analyst-Capstone-Project
 # Data Analyst Capstone Project: Executive Sales & Profitability Analysis
 
 ## Overview
@@ -36,12 +35,6 @@ This project delivers an end-to-end data analysis, dynamic dashboard, and execut
 
 ## Technologies Used
 * **Python (Pandas, Matplotlib):** Data cleaning, exploratory data analysis (EDA), and summary aggregation.
-* **Power BI / Tableau:** Interactive dashboard development and visualization.
+* **Power BI** Interactive dashboard development and visualization.
 * **Excel:** Primary dataset source (`Sample data (1).xlsx`).
 
----
-
-## Repository Navigation
-* `/src/`: Contains `analysis.py` python automation script.
-* `/dashboard/`: Contains `.pbix` dashboard source file and visual previews.
-* `/data/`: Contains raw Excel file used for input analysis.
