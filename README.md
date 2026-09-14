@@ -15,7 +15,7 @@ This project delivers an end-to-end data analysis, dynamic dashboard, and execut
 ---
 
 ## Visual Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
